@@ -16,5 +16,5 @@ I'm Frontend Developer
 - Practical experience code versioning tool such as Git
 - Good knowledge of VueJS Framework
 
-Feel free to contact me!
+# Feel free to contact me!
 
