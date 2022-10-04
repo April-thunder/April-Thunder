@@ -13,7 +13,7 @@ I'm Frontend Developer
 - Javascript (ES6)
 - Solid experience in using a complex REST API from the client-side
 - Good knowledge and practical experience of GULP, Webpack and Vite
-- Practical experiencecode versioning tool such as Git
+- Practical experience code versioning tool such as Git
 - Good knowledge of VueJS Framework
 
 Please see my projects for details
