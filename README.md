@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Dear Friend 👋
 
 I'm Frontend Developer
 - 📫 How to reach me: Just send e-mail to lex_vid@mail.ru
@@ -6,7 +6,15 @@ I'm Frontend Developer
 - 🌱 I’m mentor in IT-School https://skillfactory.ru/
 - 👯 I’m looking forward to take part in interesting projects to create awesome Frontend 
 
-My stack is 
+## My stack and key capabilities are
 
-HTML/CSS, Javascript (ES6), VueJS
+- HTML5 and CSS3
+- High level of experience with UI layouts, SASS, LESS, Bootstrap, CSS Flexbox and GRID systems
+- Javascript (ES6)
+- Solid experience in using a complex REST API from the client-side
+- Good knowledge and practical experience of GULP, Webpack and Vite
+- Practical experiencecode versioning tool such as Git
+- Good knowledge of VueJS Framework
+
+Please see my projects for details
 
