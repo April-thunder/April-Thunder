@@ -1,7 +1,6 @@
 ## Hi Dear Friend 👋
 
 I'm Frontend Developer
-- 📫 How to reach me: Just send e-mail to lex_vid@mail.ru
 - 🔭 I’m currently working in IT Department https://edprodpo.com/
 - 🌱 I’m mentor in IT-School https://skillfactory.ru/
 - 👯 I’m looking forward to take part in interesting projects to create awesome Frontend 
@@ -16,5 +15,7 @@ I'm Frontend Developer
 - Practical experience code versioning tool such as Git
 - Good knowledge of VueJS Framework
 
-#### Feel free to contact me!
+### Feel free to contact me!
+
+📫 How to reach me: Just send e-mail to lex_vid@mail.ru
 
