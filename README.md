@@ -6,6 +6,8 @@ I'm Frontend Developer (Despite lack of Laptop, cellphone on my profile photo :s
 
 📫 How to reach me: Just send e-mail to lex_vid@mail.ru
 
+## About me shortly
+
 - 🔭 I’m currently working in IT Department https://edprodpo.com/
 - 🌱 I’m mentor in IT-School https://skillfactory.ru/
 - 👯 I’m looking forward to take part in interesting projects to create awesome Frontend 
