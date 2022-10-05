@@ -1,6 +1,6 @@
 ## Hi Dear Friend 👋
 
-I'm Frontend Developer
+I'm Frontend Developer (Though lack of Laptop, cellphones on my profile photo :-) ) 
 - 🔭 I’m currently working in IT Department https://edprodpo.com/
 - 🌱 I’m mentor in IT-School https://skillfactory.ru/
 - 👯 I’m looking forward to take part in interesting projects to create awesome Frontend 
