@@ -1,6 +1,11 @@
 ## Hi Dear Friend 👋
 
 I'm Frontend Developer (Despite lack of Laptop, cellphone on my profile photo :smiley: ) 
+
+## Feel free to contact me!
+
+📫 How to reach me: Just send e-mail to lex_vid@mail.ru
+
 - 🔭 I’m currently working in IT Department https://edprodpo.com/
 - 🌱 I’m mentor in IT-School https://skillfactory.ru/
 - 👯 I’m looking forward to take part in interesting projects to create awesome Frontend 
@@ -15,7 +20,5 @@ I'm Frontend Developer (Despite lack of Laptop, cellphone on my profile photo :s
 - Experience in code versioning tool Git
 - Good knowledge of VueJS Framework
 
-## Feel free to contact me!
 
-📫 How to reach me: Just send e-mail to lex_vid@mail.ru
 
