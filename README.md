@@ -15,7 +15,7 @@ I'm Frontend Developer (Despite lack of Laptop, cellphone on my profile photo :s
 ## My stack and key capabilities are
 
 - HTML5 and CSS3
-- High level of experience with UI layouts, SASS, LESS, Bootstrap, CSS Flexbox and GRID systems
+- High level of experience with UI layouts, SASS, Bootstrap, CSS Flexbox and GRID systems
 - I am very attentive to details. So i prefere use Pixel Perfect Plugin for webpages creation. But if hi accuracy is not the must i can handle with template only.
 - Javascript (ES6)
 - Solid experience in using a complex REST API from the client-side
