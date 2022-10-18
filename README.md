@@ -20,7 +20,7 @@ I'm Frontend Developer (Despite lack of Laptop, cellphone on my profile photo :s
 - Solid experience in using a complex REST API from the client-side
 - Good knowledge and practical experience of GULP, Webpack and Vite
 - Experience in code versioning tool Git
-- Good knowledge of VueJS Framework
+- Elementary knowledge of VueJS Framework
 
 
 
