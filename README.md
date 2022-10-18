@@ -9,7 +9,6 @@ I'm Frontend Developer (Despite lack of Laptop, cellphone on my profile photo :s
 ## About me shortly:
 
 - 🔭 I’m currently working in IT Department https://edprodpo.com/
-- 🌱 I’m mentor in IT-School https://skillfactory.ru/
 - 👯 I’m looking forward to take part in interesting projects to create awesome Frontend 
 
 ## My stack and key capabilities are:
