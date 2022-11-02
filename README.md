@@ -11,6 +11,10 @@ I'm Frontend Developer (Despite lack of Laptop, cellphone on my profile photo :s
 - 🔭 I’m currently working in IT Department https://edprodpo.com/
 - 👯 I’m looking forward to take part in interesting projects to create awesome Frontend 
 
+## For comfortable navigation in my project please use Stars page
+
+https://github.com/April-thunder?tab=stars
+
 ## My stack and key capabilities are:
 
 - HTML5 and CSS3
