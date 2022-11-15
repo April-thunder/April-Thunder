@@ -24,7 +24,7 @@ https://github.com/April-thunder?tab=stars
 - Solid experience in using a complex REST API from the client-side
 - Good knowledge and practical experience of GULP, Webpack and Vite
 - Experience in code versioning tool Git
-- Elementary knowledge of VueJS Framework
+- VueJS Framework
 
 
 
